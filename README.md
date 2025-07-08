@@ -1,2 +1,2 @@
-# ngintiptetangga
-ngintiptetangga
+
+[ngintiptetangga](https://ngintiptetangga.pages.dev)
